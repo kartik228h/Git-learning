@@ -13,3 +13,4 @@ console.log(upi);
 const footer = "Added a Footer";
 console.log(footer);
 console.log(payment);
+console.log(upi);
