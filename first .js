@@ -17,3 +17,7 @@ console.log(upi);
 
 const header = "Added a Header";
 console.log(header);
+
+//i am fixing some bugs in the code
+const bugFix = "Fixed some bugs";
+console.log(bugFix);
